@@ -11,3 +11,9 @@ Type the following commands: cd UnderTheHedge.app/Contents/MacOS chmod +x "Game3
 You can now return to the main project folder and double click the "TargetPractice-Mac" application to run the game.
 
 Play and enjoy the Game!
+
+
+Play On Windows:
+
+Download and Unzip the File from the link below.
+https://drive.google.com/file/d/1Jp_vHcjkdB1v2t_KIc1XLX6eHqNlDnlz/view?usp=sharing
