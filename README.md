@@ -16,4 +16,4 @@ Play and enjoy the Game!
 Play On Windows:
 
 Download and Unzip the File from the link below.
-https://drive.google.com/file/d/1Jp_vHcjkdB1v2t_KIc1XLX6eHqNlDnlz/view?usp=sharing
+
